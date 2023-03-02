@@ -5,7 +5,7 @@ const Content = () => {
         <Box sx={{
             background: "#A9A9A9",
             width: "100%",
-            height: 500,
+            height: 530,
            
         }}>
             <h2 style={{
