@@ -5,7 +5,7 @@ const Footer = () => {
         <Box component='footer'
          sx={{
             background: '#C0C0C0',
-            padding: 10
+            padding: '76px'
         }}>
             <h3>footer</h3>
         </Box>
