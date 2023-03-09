@@ -14,8 +14,8 @@ const styles = {
     nav: {
         background: '#555',
         color: '#000',
-        padding: '20px',
-        marginTop: '5px'
+        padding: '20px'
+        // marginTop: '5px'
     },
     ulMenu: {
         listStyleType: 'none'
