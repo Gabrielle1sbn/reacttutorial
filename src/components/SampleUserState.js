@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState} from 'react'
 
-const SampleUseState = () => {
+const SampleUserState = () => {
 
     const [counter, setCounter] = useState(0)
     const [name, setName] = useState('Fulano')
@@ -22,4 +22,4 @@ const SampleUseState = () => {
   )
 }
 
-export default SampleUseState
+export default SampleUserState

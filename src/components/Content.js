@@ -1,6 +1,6 @@
 import Box from '@mui/material/Box'
 import Alert from './Alert'
-import SampleUseState from './SampleUseState'
+import SampleUserState from './SampleUserState'
 
 const Content = () => {
     return (
@@ -27,7 +27,7 @@ const Content = () => {
                    Warning! {/* children */}
                 </Alert>
 
-                <SampleUseState />
+                <SampleUserState />
         </Box>
     )
 }
