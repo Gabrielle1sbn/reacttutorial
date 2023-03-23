@@ -1,12 +1,10 @@
-import React from 'react'
+// import React from 'react'
 import {useState} from 'react'
 
 const SampleUserState = () => {
 
     const [counter, setCounter] = useState(0)
     const [name, setName] = useState('Fulano')
-
-    console.log('Component log...')
 
   return (
     <div>
