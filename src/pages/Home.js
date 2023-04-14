@@ -31,9 +31,9 @@ const Home = () => {
               <Alert type="warning">
                 Warning!
               </Alert> 
+                <SampleUserState />
             </Content >
 
-          <SampleUserState />
         </Box>
       <Footer />
     </>
