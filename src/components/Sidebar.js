@@ -9,7 +9,7 @@ import { BsFillEggFill as Ovin } from 'react-icons/bs'
 
 const Sidebar = () => {
     return(
-        <Box component='sidebar'
+        <Box 
         sx={{
             background: "#DDD",
             width: 200,
@@ -49,12 +49,6 @@ const Sidebar = () => {
 
                 <hr />
 
-            <IconCarrinnhoMais
-            style={{
-                width: 30,
-                height: 30,
-                color: '#034f84'
-                }} />
 
             <Discord
             style={{
